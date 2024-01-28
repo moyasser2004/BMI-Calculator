@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+Quickly calculate your Body Mass Index (BMI) with this Flutter app.
 
 ## Getting Started
 
